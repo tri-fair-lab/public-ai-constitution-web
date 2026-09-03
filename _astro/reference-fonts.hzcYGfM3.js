@@ -1,0 +1,1 @@
+import{i as e}from"./jsx-runtime.Blkcpqor.js";var t=e(`x`,[[`path`,{d:`M18 6 6 18`,key:`1bl5f8`}],[`path`,{d:`m6 6 12 12`,key:`d8bk6v`}]]),n=`'Newsreader Variable', Georgia, 'Times New Roman', serif`,r=`'JetBrains Mono Variable', ui-monospace, SFMono-Regular, Menlo, monospace`;export{r as n,t as r,n as t};
